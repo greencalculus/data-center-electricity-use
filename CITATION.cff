@@ -12,6 +12,14 @@ authors:
   - family-names: Say
     given-names: Jeremiah
     affiliation: "GreenCalculus"
+doi: "10.5281/zenodo.23307541"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23307541"
+    description: "Concept DOI (always the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.23307542"
+    description: "Version 2026.10.12"
 version: "2026.10.12"
 date-released: "2026-10-12"
 url: "https://greencalculus.com/data/data-center-energy-consumption/"

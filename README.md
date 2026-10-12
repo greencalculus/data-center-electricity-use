@@ -1,5 +1,7 @@
 # Data Center Electricity Use
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23307541.svg)](https://doi.org/10.5281/zenodo.23307541)
+
 Published estimates of how much electricity data centers use, each traced to its publisher: national, regional and world totals and projections, and the consumption the largest operators report.
 
 - **33 rows** from 7 publishers:
@@ -40,5 +42,7 @@ Interactive version with a data center electricity calculator: https://greencalc
 ## Licence and citation
 
 The compilation is released under **CC BY 4.0**. The figures are facts published by the organisations named in each row; cite them as well as this dataset. The LBNL report is itself CC BY 4.0.
+
+Cite as: Say, J. (2026). *Data Center Electricity Use* (Version 2026.10.12) [Data set]. GreenCalculus. https://doi.org/10.5281/zenodo.23307541
 
 Corrections: open an issue on this repository with the row id and the source.
