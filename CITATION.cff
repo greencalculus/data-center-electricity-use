@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the original publisher of any figure you use."
+type: dataset
+title: "Data Center Electricity Use"
+abstract: >
+  Published estimates of data center electricity use, each traced to its publisher: US totals and 2030
+  scenarios from Lawrence Berkeley National Laboratory's 2025 Update, world totals and projections from
+  the IEA, EU totals from the European Commission, Ireland from the Central Statistics Office, and the
+  electricity Google, Microsoft and Meta report. Values copied exactly as published, with source URL,
+  period and retrieval date for every row.
+authors:
+  - family-names: Say
+    given-names: Jeremiah
+    affiliation: "GreenCalculus"
+version: "2026.10.12"
+date-released: "2026-10-12"
+url: "https://greencalculus.com/data/data-center-energy-consumption/"
+repository-code: "https://github.com/greencalculus/data-center-electricity-use"
+license: CC-BY-4.0
+keywords:
+  - data center energy consumption
+  - data center electricity usage
+  - AI energy
+  - data centres
+  - electricity demand
